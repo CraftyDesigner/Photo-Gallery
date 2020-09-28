@@ -1,0 +1,37 @@
+body{
+	margin: 1%;
+	padding:1%;
+	background-color: rgba(0,0,255,.2);
+	font-size: 100%;
+	min-width: 500px;
+}
+
+header, footer{
+	background-color:#0066FF;
+  	padding: 1%;
+  	margin-bottom: 1%;
+}
+
+img{
+	margin: 1%;
+}
+
+table th{
+	width: 74%;
+	display: none;
+}
+
+table td{
+	width: 74%;
+	display: none;
+}
+
+table th:first-child{
+	width: 25%;
+	display: inline-block;
+}
+
+table td:first-child{
+	width: 25%;
+	display: inline-block;
+}
